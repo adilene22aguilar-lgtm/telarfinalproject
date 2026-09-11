@@ -2,16 +2,16 @@
 # https://telar.org
 
 # Site Settings
-title: "Telarfinalproject"
+title: "The Preservation of Writing and Power "
 description: "Telarfinalproject"
 url: "https://adilene22aguilar-lgtm.github.io"
 baseurl: "/telarfinalproject"
 author: "adilene22aguilar-lgtm"
 email: ""
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "trama"
 logo: ""
-telar_language: "en" # Options: "en" (English), "es" (Español)
-collection_mode: false # Set to true to show objects first with large thumbnails and stories below with small thumbnails (collection-first homepage)
+telar_language: en
+collection_mode: false
 
 # Story Interface Settings
 story_interface:
