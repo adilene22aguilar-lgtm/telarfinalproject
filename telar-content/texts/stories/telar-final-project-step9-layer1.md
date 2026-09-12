@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+The changes visible in the Nueva corónica were connected to much larger changes happening in Andean society. Spanish colonization introduced new political institutions, religious beliefs, languages, and forms of documentation. Because alphabetic writing was used within many of these colonial systems, the ability to communicate through this form of writing became connected to authority and power. Guaman Poma's manuscript demonstrates how an Indigenous author could participate in this changing world. He wrote much of the Nueva corónica using alphabetic writing and directed his work toward the Spanish king, placing his arguments within a form that Spanish authorities could recognize. At the same time, his manuscript continued to represent Andean people, history, and knowledge which shos us that changes in writing can reveal changes happening throughout society. The transformation of writing in colonial Spanish America was therefore not simply a technological change. It was also connected to questions about whose knowledge was recorded, whose voices could be heard, and who held power.

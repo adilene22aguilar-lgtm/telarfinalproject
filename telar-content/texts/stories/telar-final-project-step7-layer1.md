@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+Guaman Poma's Nueva Corónica shows how writing can preserve the history of a society during a period of major change. Spanish colonization transformed Andean political, religious, and social life, but Guaman Poma documented Indigenous histories, traditions, leaders, and ways of organizing society within his manuscript. This creates an important example of continuity because Indigenous knowledge did not simply disappear when Spanish systems were introduced. Instead, Guaman Poma found a new way to record and preserve it. His manuscript also shows that preserving history can be connected to power. By recording Andean society in a work intended for the Spanish king, Guaman Poma demonstrates that Indigenous people had their own history and systems of knowledge before and during colonial rule. The Nueva Corónica therefore shows both change and continuity, colonialism changed the world in which Guaman Poma was writing, while writing allowed parts of Andean history and knowledge to continue.

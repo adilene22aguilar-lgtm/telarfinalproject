@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+The history of the Nueva Corónica does not end with Guaman Poma, the manuscript was originally created by hand, but today readers can encounter its pages through reproductions and digital technology. This creates a final example of change and continuity. The material form through which people experience the work can change, while much of the information contained within it continues. Walter Ong's discussion of writing and print helps us think about why changes in technology matter. Different technologies affect how writing is produced, organized, reproduced, and experienced by readers. The Nueva corónica allows us to extend this question beyond the European history that Ong mainly discusses. Guaman Poma's work existed within colonial Spanish America, where Indigenous and European forms of communication interacted rather than following one simple transition from manuscript to print. Its continued preservation shows that the history of writing is not simply one system replacing another. Older forms can survive, coexist with newer technologies, and gain new audiences over time.

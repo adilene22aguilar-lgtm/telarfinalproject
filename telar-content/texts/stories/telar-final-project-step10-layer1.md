@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+Although alphabetic writing was closely connected to Spanish colonial institutions, Guaman Poma shows that people could adapt a dominant form of writing for their own purposes. The Nueva corónica was addressed to the Spanish king, but Guaman Poma did not simply praise the colonial system. He used his manuscript to describe problems and abuses that Indigenous people experienced and to present his ideas about better government. This makes writing an important form of power in itself. Guaman Poma was working within a system created largely by colonial authorities while also using that system to question the way colonial society operated. His combination of writing and images allowed him to make his criticism visible and communicate his perspective. This creates another example of change and continuity. The political system around him had changed dramatically, and he adapted to new forms of writing, but the ability to use communication to establish knowledge, preserve perspectives, and make claims about authority continued.
